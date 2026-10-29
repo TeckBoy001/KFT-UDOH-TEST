@@ -1,0 +1,9 @@
+Page Title: ['KFT Brand Identity ΓÇô Google Drive']
+
+Filenames: {'broken_image_grey600_18dp.png', 'drive_favicon_2026_32dp.png', 'logo_drive_2026_color_2x_web_48dp.png', 'al-icon.png', 'ed.doc', 'googlelogo_clr_74x24px.svg', 'Qb.doc', '_.t.doc', 'g.ownerDocument.doc', 'logo_drive_2026_color_1x_web_48dp.png', 'googlelogo_surface_dark_74x24px.svg', 'vnd.openxmlformats-officedocument.wordprocessingml.doc', 'googlelogo_on_surface_dark_74x24px.svg', 'googlelogo_dark_clr_74x24px.svg', 'vnd.google-gsuite.doc', 'vnd.ms-word.doc', 'googlelogo_on_surface_light_74x24px.svg', 'vnd.google-apps.doc', 'window.document.doc', 'googlelogo_light_clr_74x24px.svg', 'a.doc'}
+
+Items: []
+
+Relevant strings:
+><title>KFT Brand Identity ΓÇô Google Drive</title><script nonce=
+KFT Brand Identity
